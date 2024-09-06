@@ -1,0 +1,16 @@
+
+  {
+    "techs_1": [
+      { "name": "JavaScript", "rate": "20" },
+      { "name": "ReactJS", "rate": "15" },
+      { "name": "NodeJS", "rate": "10" },
+      { "name": "HTML5", "rate": "75" },
+      { "name": "CSS3", "rate": "75" },
+      { "name": "SQL Server", "rate": "15" },
+      { "name": "MongoDB", "rate": "10" }
+    ],
+  
+  "techs_2": [
+  
+  ]
+}

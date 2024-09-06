@@ -1,0 +1,38 @@
+{
+  "data_1": [
+    { "birthday": "28 Sep 2000" },
+    { "phone": "+63 938-948-8924" },
+    { "address": "Pinayagan Norte, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 39 },
+    { "degree": "BS Information Technology" },
+    { "email": "<a href='mailto:junayonmiguel@gmail.com'>junayonmiguel@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Macaas, Tubigon, Bohol, Philippines",
+    "+63 938-948-8924",
+    "<a href='mailto:junayonmiguel@gmail.com'>junayonmiguel@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. Information Technology",
+      "year": "2020 - present",
+      "school": "Mater Dei College",
+      "address": "cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2013 - 2019",
+      "school": "Mater Dei College",
+      "address": "cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2007 - 2011",
+      "school": "University Of Southern Philippines Foundation",
+      "address": "Lahug, Cebu City"
+    }
+  ]
+}
